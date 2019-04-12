@@ -1,3 +1,6 @@
+//Brandon Ruiz
+//CWID 890130156
+//Section 02
 #include "person.cpp"
 #include <iostream>
 #include <fstream>
